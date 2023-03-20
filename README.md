@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5D478B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Veloso;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gaaveloso&show_icons=true&count_private=true&hide_border=true&title_color=5D478B&icon_color=5D478B&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Veloso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaveloso&layout=compact&hide_border=true&title_color=5D478B&text_color=5D478B&bg_color=0d1117" />
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gaaveloso&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaveloso&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-
+<br>
 
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gaaveloso&theme=gotham)
